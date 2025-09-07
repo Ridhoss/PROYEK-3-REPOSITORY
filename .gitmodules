@@ -4,3 +4,6 @@
 [submodule "CRUD_CI4_059_Proyek3"]
 	path = CRUD_CI4_059_Proyek3
 	url = https://github.com/Ridhoss/CRUD_CI4_059_Proyek3.git
+[submodule "CV-Ridhoss"]
+	path = CV-Ridhoss
+	url = https://github.com/Ridhoss/CV-Ridhoss.git
